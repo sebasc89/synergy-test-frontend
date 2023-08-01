@@ -5,7 +5,7 @@ import { CreateApplianceComponent } from './create-appliance/create-appliance/cr
 
 const routes: Routes = [
   { path: 'Appliances', component: ListAppliancesComponent },
-  { path: 'Create-Appliance', component: CreateApplianceComponent }, 
+  { path: 'Create-appliance', component: CreateApplianceComponent }, 
 ];
 
 @NgModule({
