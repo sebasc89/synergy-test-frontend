@@ -1,0 +1,12 @@
+/* Agregar padding y margin a la tabla */
+table {
+    padding: 10px;
+    margin: 20px;
+  }
+  
+  /* Estilo personalizado para las celdas del cuerpo de la tabla */
+  td {
+    background-color: lightgray;
+    padding: 5px;
+  }
+  
